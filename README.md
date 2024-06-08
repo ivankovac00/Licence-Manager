@@ -1,0 +1,2 @@
+# Licence-Manager
+ upravljanje licencama
