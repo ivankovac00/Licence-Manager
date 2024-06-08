@@ -1,0 +1,10 @@
+/Users/ivan/Documents/GitHub/LicenceManager/src/main/java/ba/sum/fpmoz/licencemanager/CustomUserDetails.java
+/Users/ivan/Documents/GitHub/LicenceManager/src/main/java/ba/sum/fpmoz/licencemanager/CustomUserDetailsService.java
+/Users/ivan/Documents/GitHub/LicenceManager/src/main/java/ba/sum/fpmoz/licencemanager/LicenceManagerApplication.java
+/Users/ivan/Documents/GitHub/LicenceManager/src/main/java/ba/sum/fpmoz/licencemanager/SecurityConfig.java
+/Users/ivan/Documents/GitHub/LicenceManager/src/main/java/ba/sum/fpmoz/licencemanager/User.java
+/Users/ivan/Documents/GitHub/LicenceManager/src/main/java/ba/sum/fpmoz/licencemanager/UserController.java
+/Users/ivan/Documents/GitHub/LicenceManager/src/main/java/ba/sum/fpmoz/licencemanager/UserDto.java
+/Users/ivan/Documents/GitHub/LicenceManager/src/main/java/ba/sum/fpmoz/licencemanager/UserRepository.java
+/Users/ivan/Documents/GitHub/LicenceManager/src/main/java/ba/sum/fpmoz/licencemanager/UserService.java
+/Users/ivan/Documents/GitHub/LicenceManager/src/main/java/ba/sum/fpmoz/licencemanager/UserServiceImpl.java
